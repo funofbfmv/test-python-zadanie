@@ -5,28 +5,28 @@
 ## Установка зависимостей
 
 
-## pip install -r requirements.txt
+ pip install -r requirements.txt
 
 ### Пример репозитория
 
-## 1. Клонируйте репозиторий:
+1. Клонируйте репозиторий:
 
- #   git clone <https://github.com/funofbfmv/test-python-zadanie.git>
- #   cd test-python-zadanie
-
-
-## 2. Установите зависимости:
-
- #   pip install -r requirements.txt
+   git clone <https://github.com/funofbfmv/test-python-zadanie.git>
+   cd test-python-zadanie
 
 
-## 3. Отредактируйте `config.py`, указав URL к папкам с изображениями.
+2. Установите зависимости:
 
-## 4. Запустите скрипт:
-
-   # python main.py Result.tif
+   pip install -r requirements.txt
 
 
-## На выполнение этого обновления я потратил около 2 часов, включая обновление кода, тестирование и написание документации.
+ 3. Отредактируйте `config.py`, указав URL к папкам с изображениями.
 
-## Готовый код и пример работы находятся в репозитории: https://github.com/funofbfmv/test-python-zadanie.git
+ 4. Запустите скрипт командой:
+
+    `python main.py Result.tif`
+
+
+# На выполнение этого обновления я потратил около 2 часов, включая обновление кода, тестирование и написание документации.
+
+# Готовый код и пример работы находятся в репозитории: https://github.com/funofbfmv/test-python-zadanie.git
